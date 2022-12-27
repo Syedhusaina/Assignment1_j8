@@ -3,7 +3,7 @@ package overridingjava;
 public class Superparent {
 	void show()
 	{
-		System.out.println("parent class");
+		System.out.println("parent  class");
 	}
 
 }

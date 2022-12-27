@@ -4,7 +4,7 @@ class Child extends Superparent {
 	void show()
 	{
 		System.out.println("Child class ");
-		System.out.println("Overriding()");
+		System.out.println("Overriding ()");
 	}
 
 }

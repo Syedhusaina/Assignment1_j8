@@ -6,7 +6,7 @@ public class override {
 		// TODO Auto-generated method stub
 		
 		
-		Child obj1=new Child();
+		Child  obj1=new Child();
 		obj1.show();
 
 	}
